@@ -1,0 +1,1 @@
+document.getElementById("schedule").innerHTML = "Schedule: 9:30 - 13:30 // 17:00 - 20:00";

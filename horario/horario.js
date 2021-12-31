@@ -1,0 +1,1 @@
+document.getElementById("horario").innerHTML = "Horario: 9:30 - 13:30 // 17:00 - 20:00";
